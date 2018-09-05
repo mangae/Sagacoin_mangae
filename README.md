@@ -1,7 +1,7 @@
 # Sagacoin
 ## Windows wallet - bootstrap (05/Sep/18)
 - Bootstrap block **253.529** for SagaCoin Windows wallet.
-- Unzip package [Saga_Loadblocks_Windows_GUI](https://drive.google.com/file/d/1gl5Te5L70dtT5xvWedoqapvIqL_0BKAW/view?usp=sharing) into your SagaCoin-qt folder.
+- Unzip package [Saga_Loadblocks_Windows_GUI](https://drive.google.com/file/d/18lEO5FgIODCw14MDt56WAgbtTfFgPqkQ/view?usp=sharing) into your SagaCoin-qt folder.
 - Always - Backup your wallet.dat first.
 - Close the SagaCoin wallet
 - Run Saga_Loadblocks_Windows_GUI.bat
