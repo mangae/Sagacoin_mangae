@@ -2,7 +2,8 @@
 
 sagacoind stop 
 cd Sagacoin_mangae/
-cat bootstrap.dat.gz.00* > bootstrap.dat
+cat bootstrap.dat.gz.00* > bootstrap.dat.gz
+gunzip bootstrap.dat.gz
 cp bootstrap.dat /root/.SagaCoin
 cd
 cd /root/.SagaCoin 
