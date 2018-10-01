@@ -9,6 +9,6 @@ cd
 cd /root/.SagaCoin 
 sudo sagacoind -loadblock=bootstrap.dat 
 cd 
-sagacoind -daemon 
+#sagacoind -daemon 
 sagacoind getinfo 
 echo "Bootstrap loaded successfully"
