@@ -7,7 +7,7 @@ gunzip bootstrap.dat.gz
 cp bootstrap.dat /root/.SagaCoin
 cd
 cd /root/.SagaCoin 
-sudo sagacoind -loadblock=bootstrap.dat 
+sagacoind -loadblock=bootstrap.dat 
 cd 
 #sagacoind -daemon 
 sagacoind getinfo 
