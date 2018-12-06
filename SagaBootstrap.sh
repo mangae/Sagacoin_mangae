@@ -8,9 +8,10 @@ gunzip bootstrap.dat.gz
 cp bootstrap.dat /root/.SagaCoin
 cd
 cd /root/.SagaCoin 
-sagacoind -loadblock=bootstrap.dat 
+sagacoind --loadblock=bootstrap.dat 
 cd 
-#sagacoind -daemon 
 sagacoind getinfo 
 sleep 20
-echo "Bootstrap loaded successfully"
+echo "Please wait until Bootstrap is loaded successfully"
+echo "Please check status with sagacoind getblockcount"
+sagacoind getblockcount
