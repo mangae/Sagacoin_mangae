@@ -8,7 +8,7 @@ gunzip bootstrap.dat.gz
 cp bootstrap.dat /root/.SagaCoin
 cd
 cd /root/.SagaCoin 
-sagacoind --loadblock=bootstrap.dat 
+sagacoind --loadblock=blk0001.dat 
 cd 
 sagacoind getinfo 
 sleep 20
