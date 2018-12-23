@@ -8,8 +8,8 @@
 - Wait for wallet to finish importing all blocks
 - Restart the wallet and verify that your wallet is fully syncronized.
 
-## Linux - Masternode bootstrap (15/Dec/18)
-- Bootstrap block **332.086** for SagaCoin Linux hot masternode.
+## Linux - Masternode bootstrap (23/Dec/18)
+- Bootstrap block **339.198** for SagaCoin Linux hot masternode.
 - Run following command lines:
 1. git clone https://github.com/mangae/Sagacoin_mangae.git
 2. bash Sagacoin_mangae/SagaBootstrap.sh
