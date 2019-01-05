@@ -1,15 +1,15 @@
 # Sagacoin
-## Windows wallet - bootstrap (26/Dec/18)
-- Bootstrap block **341.600** for SagaCoin Windows wallet.
-- Unzip package [Saga_Loadblocks_Windows_GUI](https://drive.google.com/file/d/13oZHbfsjgni8sJmVXsYXVzIOXLzKZVvX/view?usp=sharing) into your SagaCoin-qt folder.
+## Windows wallet - bootstrap (06/Jan/19)
+- Bootstrap block **350.018** for SagaCoin Windows wallet.
+- Unzip package [Saga_Loadblocks_Windows_GUI](https://drive.google.com/file/d/1Ec1RNUG65maloHV5k4lPBq-c8AEu-DiD/view?usp=sharing) into your SagaCoin-qt folder.
 - Always - Backup your wallet.dat first.
 - Close the SagaCoin wallet
 - Run Saga_Loadblocks_Windows_GUI.bat
 - Wait for wallet to finish importing all blocks
 - Restart the wallet and verify that your wallet is fully syncronized.
 
-## Linux - Masternode bootstrap (26/Dec/18)
-- Bootstrap block **341.600** for SagaCoin Linux hot masternode.
+## Linux - Masternode bootstrap (06/Jan/19)
+- Bootstrap block **350.018** for SagaCoin Linux hot masternode.
 - Run following command lines:
 1. git clone https://github.com/mangae/Sagacoin_mangae.git
 2. bash Sagacoin_mangae/SagaBootstrap.sh
