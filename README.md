@@ -3,7 +3,7 @@
 - Bootstrap block **494.924** for SagaCoin Windows wallet.
 - **Always - Backup your wallet.dat first.**
 - Close the SagaCoin wallet
-- Download [Saga_snapshot_Windows_wallet](https://www.dropbox.com/s/uz8ot0oj73a1mt6/bootstrap.zip) into your %appdata%/SagaCoin or "C:\Users\YOURuserNAME\AppData\Roaming\SagaCoin" folder and overwrite filed and folders. **MAKE SURE THAT YOU HAVE FRECH BACKUP or "wallet.dat" saved at different location, and do not overwrite entire SagaCoin folder, just the promped contents" 
+- Download [Saga_snapshot_Windows_wallet](https://www.dropbox.com/s/uz8ot0oj73a1mt6/bootstrap.zip) into your %appdata%/SagaCoin or "C:\Users\YOURuserNAME\AppData\Roaming\SagaCoin" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRECH BACKUP or "wallet.dat" saved at different location, and do not overwrite entire SagaCoin folder, just the promped contents" 
 - Start the wallet and verify that your wallet is fully syncronized.
 
 ## Linux - Masternode bootstrap (8/May/19)
