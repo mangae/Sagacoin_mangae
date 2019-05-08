@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo apt-get unzip -y
+sudo apt-get install unzip -y
 
 cd Sagacoin_mangae/
 cat bootstrap.zip.gz.00* > bootstrap.zip
