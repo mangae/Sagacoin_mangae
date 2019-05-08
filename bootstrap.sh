@@ -2,7 +2,7 @@
 
 sudo apt-get install unzip -y
 
-wget https://www.dropbox.com/s/uz8ot0oj73a1mt6/bootstrap.zip?dl=0 /root/bootstrap.zip
+wget https://www.dropbox.com/s/uz8ot0oj73a1mt6/bootstrap.zip
 mv bootstrap.zip /root/.SagaCoin/bootstrap.zip
 killall -9 sagacoind
 
