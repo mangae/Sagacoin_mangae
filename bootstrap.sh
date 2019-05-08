@@ -4,7 +4,7 @@ sudo apt-get install unzip -y
 
 cd Sagacoin_mangae/
 cat bootstrap.zip.gz.00* > bootstrap.zip
-cp bootstrap.zip /root/.SagaCoin
+cp bootstrap.zip /root/.SagaCoin/bootstrap.zip
 killall -9 sagacoind
 
 cd /root/.SagaCoin
