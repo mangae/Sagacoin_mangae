@@ -9,8 +9,12 @@
 ## Linux - Masternode bootstrap (8/May/19)
 - Bootstrap block **494.924** for SagaCoin Linux hot masternode.
 - Run following command lines:
-1. wget https://raw.githubusercontent.com/mangae/Sagacoin_mangae/master/bootstrap.sh
-2. bash bootstrap.sh
+```css
+wget https://raw.githubusercontent.com/mangae/Sagacoin_mangae/master/bootstrap.sh
+```
+```css
+bash bootstrap.sh
+```
 
 # Note:
 - Synchronization time may vary of your VPS hardware and network performance.
