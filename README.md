@@ -6,7 +6,7 @@
 - Download [Saga_snapshot_Windows_wallet](https://www.dropbox.com/s/uz8ot0oj73a1mt6/bootstrap.zip) into your %appdata%/SagaCoin or "C:\Users\YOURuserNAME\AppData\Roaming\SagaCoin" folder and unzip/unpack it (if prompt overwrite files). **MAKE SURE THAT YOU HAVE FRESH BACKUP and "wallet.dat" saved at different location, and do not overwrite entire SagaCoin folder, just the prompt contents" 
 - Start the wallet and verify that your wallet is fully syncronized.
 
-**Note: **
+**Note:**
 - If you using different location for SagaCoin then unpack this inside of it.
 
 ## Linux - Masternode bootstrap (8/May/19)
